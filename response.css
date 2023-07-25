@@ -151,8 +151,8 @@
         grid-template-rows: repeat(3,10vw);
         grid-template-columns: repeat(3,10vw);
         padding-left: 35%;
-        padding-top: 12%;
-        padding-bottom: 12%;
+        padding-top: 10%;
+        padding-bottom: 10%;
     }
 }
 
